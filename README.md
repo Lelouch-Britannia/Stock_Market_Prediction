@@ -35,8 +35,9 @@ Two primary LSTM models are implemented:
 ## Visualizations
 Visualizations are provided for:
 - Stock price trend over time
+![Model Output](Results/ModelOutput.png)
 - Actual vs. Predicted prices for validation data
-
+![Predictions](Results/Predictions.png)
 
 ## Results
 The performance of the models is evaluated using the Root Mean Square Error (RMSE). Both models provide competitive results, with potential for further optimization and tuning.
