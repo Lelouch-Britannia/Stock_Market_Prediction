@@ -35,9 +35,7 @@ Two primary LSTM models are implemented:
 ## Visualizations
 Visualizations are provided for:
 - Stock price trend over time
-![Model Output](Results/ModelOutput.png)
 - Actual vs. Predicted prices for validation data
-![Predictions](Results/Predictions.png)
 
 
 ## Results
